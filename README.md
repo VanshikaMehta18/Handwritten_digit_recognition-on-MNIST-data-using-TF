@@ -16,5 +16,3 @@ Metrics: Accuracy to track the model’s performance.
 **Performance**
 The model achieves 97%+ accuracy on the MNIST test dataset. The performance can be further improved with hyperparameter tuning or by experimenting with more advanced architectures.
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details
